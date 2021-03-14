@@ -1,0 +1,99 @@
+body {
+	background-color: #EDC9AF;
+	font-family: 'Roboto', sans-serif;
+}
+
+.head1 {
+  font-size: 60px;
+  color: #5C1916;
+  position: absolute;
+  top: 0%;
+  left: 20%;
+  text-shadow: 1px 1px white;
+}
+
+.paragraph {
+  font-size: 15px;
+  position: absolute;
+  top: 26%;
+  right: 5%;
+  width: 90%;
+  height: 0%;
+}
+
+
+
+.form1 {
+  position: absolute;
+  top: 50%;
+  right: 5%;
+  width: 90%;
+  height: 0%;
+}
+.form2 {
+  position: absolute;
+  top: 89%;
+  right: 5%;
+  width: 90%;
+  height: 0%;
+}
+.table {
+  position: absolute;
+  top: 49%;
+  right: 3%;
+  width: 40%;
+  height: 0%;
+  border: 5px solid white;
+  border-radius: 10px;
+   text-align: center;
+}
+
+.color1 .color2 .color3 .color4{
+	right: -30%;
+  width: 40%;
+  height: 0%;
+
+}
+
+#dialog{
+  width: 0.1px;
+  height: 0.1px;
+  color: -internal-light-dark(white, brown);
+}
+
+.color1{
+	position: absolute;
+  top: 26%;
+
+  
+}
+
+.color2{
+	position: absolute;
+  top: 40%;
+  
+}
+
+.color3{
+	position: absolute;
+  top: 52%;
+  
+}
+
+.color4{
+	position: absolute;
+  top: 62%;
+  
+}
+
+.form3{
+   position: absolute;
+  top: 126%;
+  right: 30%
+}
+
+#tbrown{
+	
+  width: 126%;
+  height: 8%;
+}
